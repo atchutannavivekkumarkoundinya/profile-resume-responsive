@@ -188,7 +188,7 @@ h3{
     color: wheat;
 }
 
-@media  (max-width: 700px) 
+@media (max-width:480px)
 {
     body{
         max-width: 100%;
