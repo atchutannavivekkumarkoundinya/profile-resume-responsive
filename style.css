@@ -191,8 +191,7 @@ h3{
 @media (max-width:479px)
 {
     body{
-        width: 100%
-       
+        max-width: 100%;
         overflow-x: hidden;
     }
     .top-container{
@@ -220,7 +219,7 @@ h3{
         font-family: "Merriweather", serif;
         position: absolute;
         left: 1px;
-        top: 330px;
+        top: 430px;
         
     }
     .bottom-cloud{
