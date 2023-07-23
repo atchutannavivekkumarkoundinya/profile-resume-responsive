@@ -193,7 +193,6 @@ h3{
     body{
         max-width: 100%;
         overflow-x: hidden;
-        position: relative;
     }
     .top-container{
         color: #e4f9f5;
@@ -214,12 +213,13 @@ h3{
         top: 50px;
     }
     .mountain{
-       width: 400px;
-        height: 400px;
+        width: 350px;
+        height: 350px;
         text-align: center;
         font-family: "Merriweather", serif;
         position: absolute;
         left: 1px;
+        padding-right: 20px;
         top: 430px;
         
     }
